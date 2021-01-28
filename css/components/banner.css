@@ -1,0 +1,20 @@
+.banner {
+  background-image: url("https://source.unsplash.com/random/1000x500");
+  background-size: cover;
+  color: white;
+  padding: 200px 180px;
+}
+
+.banner h1 {
+  font-size: 32px;
+}
+
+.banner p {
+  font-size: 20px;
+  opacity: 0.6;
+}
+
+.banner a {
+  font-size: 16px;
+  font-weight: light;
+}

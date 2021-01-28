@@ -1,0 +1,28 @@
+.cards {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.white-card {
+  background: white;
+  box-shadow: 0 0 15px rgba(0,0,0,0.1);
+  width: 200px;
+  margin: 0px 40px;
+  padding: 20px;
+}
+
+.white-card h3 {
+  font-size: 16px;
+}
+
+.white-card p {
+  font-size: 16px;
+  opacity: 0.5;
+}
+
+.white-card img{
+  height: 100px;
+  width: 100px;
+  object-fit: cover;
+}
